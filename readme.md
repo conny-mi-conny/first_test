@@ -5,6 +5,6 @@
 ## and again to be said:
 > *nothing can bear a cleverness here*
 
-oH look, the link to the [test2_branch](https://github.com/conny-mi-conny/first_test/test2)
+oH look, the link to the [test2_branch](https://github.com/conny-mi-conny/first_test/tree/test2)
 
 
