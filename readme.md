@@ -5,4 +5,4 @@
 ## and again to be said:
 > *nothing can bear a cleverness here*
 
-oH look, the link to the [second_branch](https://github.com/conny-mi-conny/first_test/tree/second_branch)
+oH look, the link to the [test2_branch](https://github.com/conny-mi-conny/first_test/test2)
